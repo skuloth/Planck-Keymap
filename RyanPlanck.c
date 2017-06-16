@@ -1,4 +1,4 @@
-//Ryan Bega - Planck layout
+//Planck layout
 //v1.1 2/10/16
 
 #include "planck.h"
